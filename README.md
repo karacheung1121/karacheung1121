@@ -5,6 +5,8 @@
 </picture>
 
 ## About me
+
+<!-- TO DO: add more details about me later -->
 Hi, I'm Kara. You might recognize me as GitHub's mascot.
 
 <details>
@@ -19,4 +21,6 @@ Hi, I'm Kara. You might recognize me as GitHub's mascot.
 
 
 ---
-> QUOTE
+>If we pull together and commit ourselves, then we can push through anything.
+
+— Kara
