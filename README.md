@@ -7,9 +7,16 @@
 ## About me
 Hi, I'm Kara. You might recognize me as GitHub's mascot.
 
+<details>
+<summary>My top THINGS-TO-RANK</summary>
 
 | Rank |   Languages   |
 |-----:|---------------|
 |     1|    Python     |
 |     2|    SQL        |
 
+</details>
+
+
+---
+> QUOTE
