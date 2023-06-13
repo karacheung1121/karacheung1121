@@ -1,7 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="http://deepskycolors.com/pics/astro/2008/10/10-12-2008_MoonColor.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://www.astrotx.com/Moon%2001.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://www.msfastro.net/Images/moon_mosaic_11272004_FULL.jpg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/D4E03AQExgPHLzy18rg/profile-displayphoto-shrink_400_400/0/1679062795877?e=1692230400&v=beta&t=qh6CcxTAU2icayX1W6kSHSB_Mqt5uv9SLKh0oKVaTW8">
+ <source media="(prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/D4E03AQExgPHLzy18rg/profile-displayphoto-shrink_400_400/0/1679062795877?e=1692230400&v=beta&t=qh6CcxTAU2icayX1W6kSHSB_Mqt5uv9SLKh0oKVaTW8">
+ <img alt="YOUR-ALT-TEXT" src="https://media.licdn.com/dms/image/D4E03AQExgPHLzy18rg/profile-displayphoto-shrink_400_400/0/1679062795877?e=1692230400&v=beta&t=qh6CcxTAU2icayX1W6kSHSB_Mqt5uv9SLKh0oKVaTW8">
 </picture>
 
 ## About me
